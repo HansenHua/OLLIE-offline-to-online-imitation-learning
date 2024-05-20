@@ -31,7 +31,7 @@ We provide complete training codes for OLLIE.<br>
 You could adapt it to your own needs.
 
 	```
-    python main.py CartPole-v1 MFPO train
+    python main.py
 	```
 	The log files will be stored in [https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning/tree/main/performance).
 ## :checkered_flag: Testing
