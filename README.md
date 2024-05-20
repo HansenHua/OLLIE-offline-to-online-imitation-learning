@@ -11,7 +11,7 @@ we propose a principled offline-to-online IL method, named \texttt{OLLIE}, that 
 1. Clone repo
     ```bash
     git clone [https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning.git](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning.git)
-    cd MFPO-Online-Federated-Reinforcement-Learning
+    cd OLLIE-offline-to-online-imitation-learning
     ```
 2. Install dependent packages
     ```
@@ -33,7 +33,7 @@ You could adapt it to your own needs.
 	```
     python main.py
 	```
-	The log files will be stored in [https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning/tree/main/performance).
+	The log files will be stored in [https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning).
 ## :checkered_flag: Testing
 Illustration
 
